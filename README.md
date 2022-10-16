@@ -19,9 +19,9 @@ HPoS consensus mechanism: it has the characteristics of low transaction cost, lo
 The maximum number of validators supported is 21.
 
 ## Economic Model 
-The endogenous token on the chain is HT; the transactions consume HT as gas fee.
+The endogenous token on the Sardis Payment chain is SRDX; the transactions consume SRDX as gas fee.
 
-Miners pledge HT to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
+Miners pledge SRDX to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
 Assets such as BTC, ETH and stable coins can be mapped to Sardis by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Sardis. 
@@ -48,12 +48,12 @@ The meta-transaction function is supported, which allows users to reduce gas fee
 ### Resource Support
 - Projects or developers that have received investment and support from Sardis have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
 - High-quality projects can participate in Sardis global roadshows for free.
-- Huobi ventures Sardis fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
+- Sardis fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
 ### Participate in Test Environment of Sardis
 
 #### Official Website
-www.sardisnetwork.com
+mysardis.com
 
 Public Testnet
 chainid 11612
@@ -84,7 +84,7 @@ contact@mysardis.com
 
 
 ## Risk Warning
-- All users and developers can participate in the current test environment and subsequent stages of Heco for free, and there is no charging scenario.
-- All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
-- Heco announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
-- Do not misread the official website (sardisnetwork.com), and be cautious with private key phishing.
+- All users and developers can participate in the current test environment and subsequent stages of Sardis for free, and there is no charging scenario.
+- All users must distinguish the test environment from the Mainnets. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
+- SARDIS announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
+- Do not misread the official website (mysardis.com), and be cautious with private key phishing.
